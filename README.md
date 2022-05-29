@@ -75,11 +75,11 @@ This project is built using.
 
 - Clone this repository
 ```sh
-  git clone
+  git clone 
   ```
 - Change the working directory
 ```sh
-  cd 
+  cd FaceRecognition_Engage2022
   ```
 - Create a python virtual environment in the working directory
 
@@ -139,14 +139,5 @@ This project is built using.
     - Teachers can check the class strength and the students attendance using this portal
 
 
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
