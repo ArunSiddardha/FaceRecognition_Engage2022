@@ -32,6 +32,15 @@
       </ul>
     </li>
     <li>
+       <li>
+      <a href="#images-of-web-application">Image of the Web Application</a>
+      <ul>
+        <li><a href="#home-page">Home</a></li>
+        <li><a href="#lost-and-found-portal">Lost and Found Portal</a></li>
+        <li><a href="#tracking-attendance">Tracking Attendance</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#agile-developement-technology">Agile Development Technology</a>
     <ul>
     <li ><a href="#sprint-1">Sprint 1</a>
@@ -179,7 +188,7 @@ Lets see the working of the Lost and Found Portal. Lets say Elon Musk was gone m
 <br>
 
 
-### Class Attendance Portal
+### Tracking the attendance
 
 <img src="ourapp/static/ReadmeImages/Attendance1.png" alt="Logo">
 <img src="ourapp/static/ReadmeImages/Attendance2.png" alt="Logo">
