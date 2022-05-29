@@ -75,7 +75,7 @@ This project is built using.
 
 - Clone this repository
 ```sh
-  git clone 
+  git clone https://github.com/ArunSiddardha/FaceRecognition_Engage2022.git
   ```
 - Change the working directory
 ```sh
