@@ -108,11 +108,19 @@ This project is built using.
     pip3 install -r requirements.txt
 ```
 
+<<<<<<< HEAD
 - Run the flask server
 ```sh
     python app.py 
 ```
 
+=======
+- Run the flask server (using anyone of the command)
+```sh
+    python app.py  or flask run 
+```
+       
+>>>>>>> 014b5d6a7480feecdc4bce48cedc64b41c44b6e0
 - Run the app on the browser
 ```sh
     http://localhost:5000/ or whatever port it gives 
@@ -246,7 +254,10 @@ and the backend logic that I have to write with the tech stack im using.
 
 - And I have cleared many of the small bugs that were present in the code and then made it perfect
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 014b5d6a7480feecdc4bce48cedc64b41c44b6e0
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
