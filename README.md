@@ -180,7 +180,7 @@ Lets see the working of the Lost and Found Portal. Lets say Elon Musk was gone m
 <br>
 <br>
 
-- If any person/parent is searching for elon musk now(after he has been found by other person) then since already user found elon musk so their detials along their contact number will be provided to their parents.
+- If any person/parent is searching for elon musk now(after he has been found by other person) uploads some picture of elon musk this picture is used to search the database and then it will use facerecognition to match the results of the faces and displayes us the result as shown below.It displays the founders contact number and the address to visit. Same thing can be done vice versa.In our application
 
 <img src="ourapp/static/ReadmeImages/LostMatch.png" alt="Logo">
 <br>
