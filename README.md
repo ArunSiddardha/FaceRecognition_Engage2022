@@ -96,11 +96,7 @@ This project is built using.
 - Create a python virtual environment in the working directory
 
 ```sh
-    python -m venv myenv
-```
-        or 
-```sh
-virtualenv myenv
+    python3 -m venv myenv
 ```
 
 - Activate the python Virtual environment
@@ -114,15 +110,11 @@ virtualenv myenv
     pip3 install -r requirements.txt
 ```
 
-- Run the flask server
+- Run the flask server (using anyone of the command)
 ```sh
-    python app.py 
+    python app.py  or flask run 
 ```
-       or 
-
-```sh
-    flask run
-```
+       
 - Run the app on the browser
 ```sh
     http://localhost:5000/ or whatever port it gives 
@@ -212,9 +204,6 @@ and the backend logic that I have to write with the tech stack im using.
 
 - And I have cleared many of the small bugs that were present in the code and then made it perfect
 
-## Future Scope
-
-- There can be many things we can work on to imporve the project
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
