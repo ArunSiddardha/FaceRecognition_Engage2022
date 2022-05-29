@@ -108,19 +108,11 @@ This project is built using.
     pip3 install -r requirements.txt
 ```
 
-<<<<<<< HEAD
-- Run the flask server
-```sh
-    python app.py 
-```
-
-=======
 - Run the flask server (using anyone of the command)
 ```sh
     python app.py  or flask run 
 ```
        
->>>>>>> 014b5d6a7480feecdc4bce48cedc64b41c44b6e0
 - Run the app on the browser
 ```sh
     http://localhost:5000/ or whatever port it gives 
@@ -169,7 +161,9 @@ This project is built using.
 <br>
 <br>
 
-- If We/anyone Found Elon Musk Some where and upload the details of where to look for him along with contact number . We are now shown that until now no one is looking for elon musk if anyone tries looking for him afterwards then they will be given your contact details
+Lets see the working of the Lost and Found Portal. Lets say Elon Musk was gone missing,And he is a kid and his parents are searching for him
+
+- Now If anyone Found Elon Musk Some where and upload the details of where to look for him along with contact number . We are now shown that until now no one is looking for elon musk if anyone tries looking for him afterwards then they will be given your contact details
 
 
 <img src="ourapp/static/ReadmeImages/FoundNoMatch.png" alt="Logo">
@@ -177,7 +171,7 @@ This project is built using.
 <br>
 <br>
 
-- If any person is searching for elon musk now then since already user found  elon musk so their detials along their contact number will be provided to us as shown
+- If any person/parent is searching for elon musk now(after he has been found by other person) then since already user found elon musk so their detials along their contact number will be provided to their parents.
 
 <img src="ourapp/static/ReadmeImages/LostMatch.png" alt="Logo">
 <br>
