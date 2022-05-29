@@ -98,6 +98,10 @@ This project is built using.
 ```sh
     python -m venv myenv
 ```
+        or 
+```sh
+virtualenv myenv
+```
 
 - Activate the python Virtual environment
 
@@ -114,7 +118,11 @@ This project is built using.
 ```sh
     python app.py 
 ```
+       or 
 
+```sh
+    flask run
+```
 - Run the app on the browser
 ```sh
     http://localhost:5000/ or whatever port it gives 
