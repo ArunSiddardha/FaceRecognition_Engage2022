@@ -33,7 +33,6 @@
         <li><a href="#tracking-attendance">Tracking Attendance</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
