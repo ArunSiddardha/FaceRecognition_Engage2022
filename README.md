@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -96,11 +94,7 @@ This project is built using.
 - Create a python virtual environment in the working directory
 
 ```sh
-    python -m venv myenv
-```
-        or 
-```sh
-virtualenv myenv
+    python3 -m venv myenv
 ```
 
 - Activate the python Virtual environment
@@ -118,11 +112,7 @@ virtualenv myenv
 ```sh
     python app.py 
 ```
-       or 
 
-```sh
-    flask run
-```
 - Run the app on the browser
 ```sh
     http://localhost:5000/ or whatever port it gives 
@@ -157,6 +147,50 @@ virtualenv myenv
     - Teachers can upload the pic of their classroom of their course and get the strenght present on the class room on a particular day
 - Checking Attendance
     - Teachers can check the class strength and the students attendance using this portal
+## Images of the Web Application
+### Home Page
+<img src="ourapp/static/ReadmeImages/home1.png" alt="Logo">
+<img src="ourapp/static/ReadmeImages/home2.png" alt="Logo">
+<br>
+<br>
+
+### Lost And Found Portal
+<img src="ourapp/static/ReadmeImages/lostfound.png" alt="Logo">
+
+<br>
+<br>
+<br>
+
+- If We/anyone Found Elon Musk Some where and upload the details of where to look for him along with contact number . We are now shown that until now no one is looking for elon musk if anyone tries looking for him afterwards then they will be given your contact details
+
+
+<img src="ourapp/static/ReadmeImages/FoundNoMatch.png" alt="Logo">
+<br>
+<br>
+<br>
+
+- If any person is searching for elon musk now then since already user found  elon musk so their detials along their contact number will be provided to us as shown
+
+<img src="ourapp/static/ReadmeImages/LostMatch.png" alt="Logo">
+<br>
+<br>
+<br>
+
+
+### Class Attendance Portal
+
+<img src="ourapp/static/ReadmeImages/Attendance1.png" alt="Logo">
+<img src="ourapp/static/ReadmeImages/Attendance2.png" alt="Logo">
+
+- Class registration
+<img src="ourapp/static/ReadmeImages/class1.png" alt="Logo">
+
+- Taking the Attendance
+<img src="ourapp/static/ReadmeImages/takeattendance.png" alt="Logo">
+
+- Getting the class strength
+<img src="ourapp/static/ReadmeImages/class3.png" alt="Logo">
+
 
 ## Agile Developement Technology
 - I have adopted the Scrum methodology for developing the application
@@ -212,9 +246,7 @@ and the backend logic that I have to write with the tech stack im using.
 
 - And I have cleared many of the small bugs that were present in the code and then made it perfect
 
-## Future Scope
 
-- There can be many things we can work on to imporve the project
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
