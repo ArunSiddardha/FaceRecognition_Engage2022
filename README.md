@@ -85,8 +85,7 @@ This project is built using.
 ```sh
     python -m venv myenv
 ```
-       or 
-if that doesent work
+        or 
 ```sh
 virtualenv myenv
 ```
