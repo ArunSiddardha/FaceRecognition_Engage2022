@@ -31,8 +31,7 @@
         <li><a href="#tracking-attendance">Tracking Attendance</a></li>
       </ul>
     </li>
-    <li>
-       <li>
+     <li>
       <a href="#images-of-web-application">Image of the Web Application</a>
       <ul>
         <li><a href="#home-page">Home</a></li>
