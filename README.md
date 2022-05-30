@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Introduction
 
-This project is built under microsoft engage mentorship program 2022.This Web app consists of three demonstrations of facial recognition
+This project is built under microsoft engage mentorship program 2022.This Web app consists of three demonstrations of Applications of facial recognition
 * Login Security
 * Finding missing people
 * Tracking Attendance
