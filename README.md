@@ -120,12 +120,13 @@ This project is built using.
 ```sh
     python app.py  or flask run 
 ```
+
        
 - Run the app on the browser
 ```sh
     http://localhost:5000/ or whatever port it gives 
 ```
-
+- After opening wait sometime so that our DeepFace library downloads all the weights files that are required.It might take sometime to download all the DeepFace weights, then try the features of the application.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
