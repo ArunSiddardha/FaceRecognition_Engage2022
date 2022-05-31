@@ -91,7 +91,6 @@ This project is built using.
   sudo apt-get install python3.8
   ```
 - Use pip version 22 or higher
-- 
 - Clone this repository
 ```sh
   git clone https://github.com/ArunSiddardha/FaceRecognition_Engage2022.git
